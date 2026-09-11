@@ -25,4 +25,4 @@ sha256.22=sha256:a66803a75960220d6a5515fc60dc1cffa6fef6b7ac8a8f22c64a1f57ea70905
 sha256.23=sha256:461c447c5a2f8f94654a76fd91bcc72d47f037a35255d1d06447068a50e9f31f
 sha256.24=sha256:1cadfb4bc2f87476fd46c7a10e119a05f6a382b41901eedc9997a32675e38289
 
-mirror=https://github.com/dark2469-commits/brserver-client/releases/download/v1.4.7/
+mirror=https://github.com/dark2469-commits/brserver-client/releases/download/Client1.4.7/
